@@ -1,15 +1,26 @@
-by using larvel build an eccomerce website.
+<p>by using larvel build an eccomerce website.
 in this project i have built and website for fruitshop with funtionlities like view all the product avaliblae in store. and filter them on base of category. 
 then select the perticular item and select quntity. 
-user can view all the items in cart section. user can proceded to place order by clicking on checkout cart.
+user can view all the items in cart section. user can proceded to place order by clicking on checkout cart.</p>
 
 -- pending list 
-1.access token validations
-2.cart items 
-3.order tarck 
-4.order summary
+<ul>
+    <li>
+        access token validations
+    </li>
+       <li>
+        cart items
+    </li>
+       <li>
+        order tarck 
+    </li>
+       <li>
+        order summary
+    </li>
+</ul>
 
-the tables used :
+
+<h3><b>the tables used</b></h3> :
 user
 products
 product_catgeory
